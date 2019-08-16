@@ -5,6 +5,6 @@ class Application
     t = Time.now
     resp.write "Good Morning"
     
-    resp. write "Good Afternoon"
+    resp.write "Good Afternoon"
   end
 end 
