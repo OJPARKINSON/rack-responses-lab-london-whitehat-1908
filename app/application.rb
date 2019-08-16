@@ -1,6 +1,7 @@
 class Application
   def call(env)
-    resp = Rack::Response.new
+    resp = R
+    ack::Response.new
     
     t = Time.now
     resp.write "Good Morning"
